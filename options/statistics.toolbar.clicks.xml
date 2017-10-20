@@ -1,0 +1,16 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="CheckinProject@MainToolbar" count="2" />
+      <entry action="OpenFile@MainToolbar" count="4" />
+      <entry action="com.intellij.openapi.actionSystem.DefaultActionGroup@ProjectStructureArtifactEditor" count="3" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.artifacts.actions.AddCompositeElementAction@ProjectStructureArtifactEditor" count="3" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.classpath.ClasspathPanelImpl$6@ToolbarDecorator" count="1" />
+      <entry action="com.intellij.openapi.vcs.changes.ui.ChangesTreeList$6@ChangesBrowser" count="4" />
+      <entry action="com.intellij.openapi.vcs.changes.ui.ChangesTreeList$7@ChangesBrowser" count="3" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="17" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="65" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$CloseSession@Terminal" count="1" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,27 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="installed.kotlin.plugin.version" value="1.1.4-release-IJ2017.2-3" />
+    <property name="android-component-compatibility-check" value="1508379478985" />
+    <property name="ts.lib.d.ts.version" value="2.4.1" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="file.chooser.recent.files" value="E:/IdeaProjects/design-pattern&#10;E:/IdeaProjects/design-pattern/.idea&#10;E:/IdeaProjects/JspRun/source/WebRoot&#10;E:/IdeaProjects/JspRun/source/WebRoot/WEB-INF/lib&#10;E:/IdeaProjects/JspRun/source/.project&#10;E:/temp/project/JspRun_v6.0.0_Source_UTF8（可以在IntelliJ+IDEA里面部署成功）%28YouMeek.com整理%29/JspRun!_6.0.0_Source_UTF8/source/.project&#10;E:/tomcat/apache-tomcat-8.0.43&#10;E:/IdeaProjects/hello-world&#10;D:/Develop/Java/jdk1.8.0_101&#10;E:/IdeaProjects" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="8" />
+    <property name="file.gist.reindex.count" value="2359" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.62663496" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="PLUGIN_FILTER" value="ignore&#10;ali&#10;Alibaba Java Coding Guidelines" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Paths" />
+    <property name="ProjectStructure.TopLevelElements" value="0.15494792" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="Copy.OpenInEditor" value="true" />
+  </component>
+</application>

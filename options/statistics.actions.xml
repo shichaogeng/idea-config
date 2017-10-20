@@ -1,0 +1,66 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="2" />
+      <entry action="$Paste" count="2" />
+      <entry action="$Undo" count="19" />
+      <entry action="ActivateTerminalToolWindow" count="1" />
+      <entry action="CheckinProject" count="2" />
+      <entry action="CodeCompletion" count="6" />
+      <entry action="EditCustomProperties" count="1" />
+      <entry action="EditCustomVmOptions" count="1" />
+      <entry action="EditorBackSpace" count="231" />
+      <entry action="EditorChooseLookupItem" count="60" />
+      <entry action="EditorChooseLookupItemReplace" count="6" />
+      <entry action="EditorCompleteStatement" count="1" />
+      <entry action="EditorCopy" count="5" />
+      <entry action="EditorCut" count="12" />
+      <entry action="EditorDelete" count="6" />
+      <entry action="EditorDown" count="59" />
+      <entry action="EditorEnter" count="37" />
+      <entry action="EditorEscape" count="5" />
+      <entry action="EditorLeft" count="65" />
+      <entry action="EditorLookupDown" count="1" />
+      <entry action="EditorLookupUp" count="1" />
+      <entry action="EditorPaste" count="11" />
+      <entry action="EditorRight" count="60" />
+      <entry action="EditorScrollDown" count="5" />
+      <entry action="EditorScrollUp" count="2" />
+      <entry action="EditorStartNewLine" count="14" />
+      <entry action="EditorTab" count="13" />
+      <entry action="EditorToggleInsertState" count="1" />
+      <entry action="EditorUp" count="32" />
+      <entry action="FindPrevious" count="2" />
+      <entry action="GenerateAntBuild" count="1" />
+      <entry action="Git.Add" count="1" />
+      <entry action="Git.Init" count="2" />
+      <entry action="Github.Create.Gist" count="1" />
+      <entry action="GotoBookmark1" count="1" />
+      <entry action="GotoClass" count="2" />
+      <entry action="InsertLiveTemplate" count="4" />
+      <entry action="InvalidateCaches" count="5" />
+      <entry action="MethodDown" count="2" />
+      <entry action="MethodUp" count="1" />
+      <entry action="NewClass" count="3" />
+      <entry action="NewDir" count="2" />
+      <entry action="NewElement" count="7" />
+      <entry action="NewProject" count="6" />
+      <entry action="NextTemplateVariable" count="1" />
+      <entry action="OpenFile" count="5" />
+      <entry action="RecentFiles" count="1" />
+      <entry action="RevealIn" count="1" />
+      <entry action="RunClass" count="3" />
+      <entry action="ShowIntentionActions" count="20" />
+      <entry action="ShowProjectStructureSettings" count="11" />
+      <entry action="ShowSettings" count="22" />
+      <entry action="ShowUmlDiagram" count="3" />
+      <entry action="SynchronizeCurrentFile" count="1" />
+      <entry action="ToggleLineBreakpoint" count="1" />
+      <entry action="ViewToolBar" count="1" />
+      <entry action="ViewToolButtons" count="1" />
+      <entry action="com.alibaba.p3c.idea.action.SwitchLanguageAction" count="3" />
+      <entry action="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" count="1" />
+      <entry action="editRunConfigurations" count="3" />
+    </counts>
+  </component>
+</application>

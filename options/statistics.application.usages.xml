@@ -1,0 +1,28 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Version_Control].shown" count="1" />
+      <entry feature="execute.Application.Run" count="3" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.Compiler" count="1" />
+      <entry feature="ide.settings.File_Encodings" count="1" />
+      <entry feature="ide.settings.File_Types" count="2" />
+      <entry feature="ide.settings.Git" count="1" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.Importing" count="1" />
+      <entry feature="ide.settings.Java_Compiler" count="1" />
+      <entry feature="ide.settings.Keymap" count="1" />
+      <entry feature="ide.settings.Maven" count="2" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Tomcat_Server" count="1" />
+      <entry feature="ide.settings.Version_Control" count="1" />
+      <entry feature="idea.caches.invalidated" count="5" />
+      <entry feature="ideaapp.started" count="8" />
+      <entry feature="terminal.win" count="1" />
+      <entry feature="uml.ShowDiagram.MODULES" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Documentation" count="1" />
+    </counts>
+  </component>
+</application>
