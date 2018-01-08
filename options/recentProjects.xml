@@ -2,23 +2,132 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="E:/IdeaProjects/dubbog" />
+        <option value="E:/IdeaProjects/dubbogdemo" />
+        <option value="E:/IdeaProjects/huohe-work" />
+        <option value="E:/IdeaProjects/dubbo" />
+        <option value="E:/IdeaProjects/producesrc" />
+        <option value="E:/IdeaProjects/dubbogtest" />
+        <option value="E:/IdeaProjects/04study_Tool" />
+        <option value="E:/Git/nio-netty" />
+        <option value="E:/IdeaProjects/huohe-work/nhap" />
+        <option value="E:/IdeaProjects/work/hhusp" />
+        <option value="F:/BaiduYunDownload/多线程/021-多线程（原子操作、Lock和Condition、AQS分析）-20171130-Mark(1)/2017-11-30src/03study_Lock" />
+        <option value="E:/temp/project/JspRun_v6.0.0_Source_UTF8（可以在IntelliJ+IDEA里面部署成功）%28YouMeek.com整理%29/JspRun!_6.0.0_Source_UTF8/source" />
+        <option value="F:/BaiduYunDownload/多线程/024-多线程（并发工具类和并发容器）-20171205-Mark(1)/04study_Tool/04study_Tool" />
+        <option value="F:/BaiduYunDownload/多线程/025-多线程（接上节课＋线程池和Exector框架）-20171207-Mark/study/05study_ThreadPool" />
+        <option value="F:/BaiduYunDownload/多线程/028-多线程（项目性能优化实战）-20171212-Mark/study_ProjectPractice/study_ProjectPractice" />
+        <option value="F:/BaiduYunDownload/多线程/026-多线程（线程池和Exector框架）-20171210-Mark/05study_ThreadPool/05study_ThreadPool" />
+        <option value="F:/BaiduYunDownload/多线程/019-多线程（基础）-20171126-Mark/01study_ThreadBase/01study_ThreadBase" />
+        <option value="F:/BaiduYunDownload/多线程/020-多线程（基础）-20171128-Mark/01study_ThreadBase/01study_ThreadBase" />
+        <option value="F:/BaiduYunDownload/多线程/021-多线程（原子操作、Lock和Condition、AQS分析）-20171130-Mark(1)/2017-11-30src/02study_Atomic" />
+        <option value="E:/IdeaProjects/Basic-Single-Module-SSM" />
+        <option value="F:/BaiduYunDownload/高并发分布式（专题三）/012-消息中间件（安装管理和集群化）-20171109-Mark(1)/app_decoupling/order" />
+        <option value="F:/BaiduYunDownload/高并发分布式（专题三）/011-消息中间件（与Spring集成和场景实例）-20171107-Mark/异步处理src/study_async_proc" />
+        <option value="E:/IdeaProjects/rpcframe" />
+        <option value="E:/IdeaProjects/algorithms" />
+        <option value="F:/BaiduYunDownload/高并发分布式（专题三）/012-消息中间件（安装管理和集群化）-20171109-Mark(1)/app_decoupling/depot" />
+        <option value="F:/BaiduYunDownload/高并发分布式（专题三）/012-消息中间件（安装管理和集群化）-20171109-Mark(1)/spring_boot_rabbitmq/sb" />
+        <option value="E:/IdeaProjects/springboot-rabbitmq" />
+        <option value="E:/IdeaProjects/boot_rabbit" />
+        <option value="E:/IdeaProjects/rabbitmqexamples" />
+        <option value="F:/BaiduYunDownload/高并发分布式（专题三）/011-消息中间件（与Spring集成和场景实例）-20171107-Mark/rabbitmq_spring/study-consumer" />
+        <option value="E:/IdeaProjects/CodingInterviews" />
+        <option value="F:/BaiduYunDownload/高并发分布式（专题三）/011-消息中间件（与Spring集成和场景实例）-20171107-Mark/rabbitmq_spring/study-producer" />
+        <option value="F:/BaiduYunDownload/高并发分布式（专题三）/011-消息中间件（与Spring集成和场景实例）-20171107-Mark/rabbitmq-native-src-20171108" />
+        <option value="E:/IdeaProjects/concurrent-practise" />
+        <option value="E:/IdeaProjects/nettypractise" />
+        <option value="E:/book/Java高级特性/Netty权威指南 第2版 带书签目录 完整版.pdf/nettyBookSourceV2/nettyBookV2/book" />
+        <option value="E:/IdeaProjects/book-netty" />
+        <option value="E:/Git/nio" />
+        <option value="E:/Git/nio/.settings" />
+        <option value="F:/BaiduYunDownload/高并发分布式（专题三）/011-消息中间件（与Spring集成和场景实例）-20171107-Mark/rabbitmq_spring" />
+        <option value="F:/BaiduYunDownload/高并发分布式（专题三）/011-消息中间件（与Spring集成和场景实例）-20171107-Mark/异步处理src/study_async_proc/.idea" />
+        <option value="E:/IdeaProjects/rabbitmqnative" />
+        <option value="E:/IdeaProjects/python-hello" />
+        <option value="E:/IdeaProjects/jvm-demo" />
+        <option value="E:/IdeaProjects/design-pattern" />
+        <option value="E:/IdeaProjects/zookeeperclient" />
+        <option value="E:/IdeaProjects/zookeeperfirst" />
+        <option value="E:/IdeaProjects/zookeeper_examples" />
         <option value="E:/IdeaProjects/JspRun/source" />
         <option value="E:/IdeaProjects/JspRun/maven-demo" />
-        <option value="E:/IdeaProjects/design-pattern/.idea" />
-        <option value="E:/IdeaProjects/design-pattern" />
-        <option value="E:/temp/project/JspRun_v6.0.0_Source_UTF8（可以在IntelliJ+IDEA里面部署成功）%28YouMeek.com整理%29/JspRun!_6.0.0_Source_UTF8/source" />
-        <option value="E:/IdeaProjects/hello-world" />
-        <option value="E:/IdeaProjects/HTMLDemo" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="E:/IdeaProjects/JspRun/source" />
+        <option value="E:/IdeaProjects/dubbog" />
       </list>
     </option>
-    <option name="lastPath" value="E:/IdeaProjects/JspRun/source" />
+    <option name="lastPath" value="E:/IdeaProjects/dubbog" />
     <option name="additionalInfo">
       <map>
+        <entry key="E:/Git/nio">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510539488703" />
+              <option name="buildTimestamp" value="1506404237735" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git/nio-netty">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514274532326" />
+              <option name="buildTimestamp" value="1510606386372" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git/nio/.settings">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510539466077" />
+              <option name="buildTimestamp" value="1506404237735" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/04study_Tool">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514280961557" />
+              <option name="buildTimestamp" value="1510606386372" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/Basic-Single-Module-SSM">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1512956737330" />
+              <option name="buildTimestamp" value="1510606398607" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/CodingInterviews">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511227915819" />
+              <option name="buildTimestamp" value="1506404262889" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="E:/IdeaProjects/HTMLDemo">
           <value>
             <RecentProjectMetaInfo>
@@ -47,8 +156,52 @@
               <option name="build" value="IU-172.4343.14" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1508464630021" />
+              <option name="projectOpenTimestamp" value="1508465563813" />
               <option name="buildTimestamp" value="1506404220775" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/algorithms">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511513130411" />
+              <option name="buildTimestamp" value="1506404221888" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/book-netty">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510541489633" />
+              <option name="buildTimestamp" value="1506404237735" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/boot_rabbit">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511336592583" />
+              <option name="buildTimestamp" value="1506404251104" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/concurrent-practise">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510726851429" />
+              <option name="buildTimestamp" value="1506404235723" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -58,8 +211,8 @@
               <option name="build" value="IU-172.4343.14" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1508400748232" />
-              <option name="buildTimestamp" value="1506404237137" />
+              <option name="projectOpenTimestamp" value="1509501193170" />
+              <option name="buildTimestamp" value="1506404257281" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -74,6 +227,50 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="E:/IdeaProjects/dubbo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515079644608" />
+              <option name="buildTimestamp" value="1510606424136" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/dubbog">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515375240836" />
+              <option name="buildTimestamp" value="1510606428563" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/dubbogdemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515325444931" />
+              <option name="buildTimestamp" value="1510606431138" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/dubbogtest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514943868123" />
+              <option name="buildTimestamp" value="1510606424105" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="E:/IdeaProjects/hello-world">
           <value>
             <RecentProjectMetaInfo>
@@ -85,19 +282,371 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="E:/temp/project/JspRun_v6.0.0_Source_UTF8（可以在IntelliJ+IDEA里面部署成功）%28YouMeek.com整理%29/JspRun!_6.0.0_Source_UTF8/source">
+        <entry key="E:/IdeaProjects/huohe-work">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515248834066" />
+              <option name="buildTimestamp" value="1510606380772" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/huohe-work/nhap">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514195168703" />
+              <option name="buildTimestamp" value="1510606386312" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/jvm-demo">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-172.4343.14" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1508400458654" />
-              <option name="buildTimestamp" value="1506404257340" />
+              <option name="projectOpenTimestamp" value="1509587926932" />
+              <option name="buildTimestamp" value="1506404258492" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/nettypractise">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510717164081" />
+              <option name="buildTimestamp" value="1506404235723" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/producesrc">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514948547922" />
+              <option name="buildTimestamp" value="1510606424105" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/python-hello">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510197840520" />
+              <option name="buildTimestamp" value="1506404243925" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/rabbitmqexamples">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511255599692" />
+              <option name="buildTimestamp" value="1506404236458" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/rabbitmqnative">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510208080304" />
+              <option name="buildTimestamp" value="1506404243925" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/rpcframe">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511601655899" />
+              <option name="buildTimestamp" value="1506404233137" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/springboot-rabbitmq">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511336611203" />
+              <option name="buildTimestamp" value="1506404251104" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/work/hhusp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513735027957" />
+              <option name="buildTimestamp" value="1510606437944" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/zookeeper_examples">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508901243583" />
+              <option name="buildTimestamp" value="1506404269422" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/zookeeperclient">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509500145681" />
+              <option name="buildTimestamp" value="1506404257281" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/zookeeperfirst">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508981018577" />
+              <option name="buildTimestamp" value="1506404242561" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/book/Java高级特性/Netty权威指南 第2版 带书签目录 完整版.pdf/nettyBookSourceV2/nettyBookV2/book">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510558923403" />
+              <option name="buildTimestamp" value="1506404237735" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/temp/project/JspRun_v6.0.0_Source_UTF8（可以在IntelliJ+IDEA里面部署成功）%28YouMeek.com整理%29/JspRun!_6.0.0_Source_UTF8/source">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513647507175" />
+              <option name="buildTimestamp" value="1510606391702" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/BaiduYunDownload/多线程/019-多线程（基础）-20171126-Mark/01study_ThreadBase/01study_ThreadBase">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513214665723" />
+              <option name="buildTimestamp" value="1510606393772" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/BaiduYunDownload/多线程/020-多线程（基础）-20171128-Mark/01study_ThreadBase/01study_ThreadBase">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513164515958" />
+              <option name="buildTimestamp" value="1510606380622" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/BaiduYunDownload/多线程/021-多线程（原子操作、Lock和Condition、AQS分析）-20171130-Mark(1)/2017-11-30src/02study_Atomic">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513164048788" />
+              <option name="buildTimestamp" value="1510606380622" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/BaiduYunDownload/多线程/021-多线程（原子操作、Lock和Condition、AQS分析）-20171130-Mark(1)/2017-11-30src/03study_Lock">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513650048133" />
+              <option name="buildTimestamp" value="1510606391702" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/BaiduYunDownload/多线程/024-多线程（并发工具类和并发容器）-20171205-Mark(1)/04study_Tool/04study_Tool">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513330273451" />
+              <option name="buildTimestamp" value="1510606425230" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/BaiduYunDownload/多线程/025-多线程（接上节课＋线程池和Exector框架）-20171207-Mark/study/05study_ThreadPool">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513330249841" />
+              <option name="buildTimestamp" value="1510606425230" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/BaiduYunDownload/多线程/026-多线程（线程池和Exector框架）-20171210-Mark/05study_ThreadPool/05study_ThreadPool">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513314059023" />
+              <option name="buildTimestamp" value="1510606425230" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/BaiduYunDownload/多线程/028-多线程（项目性能优化实战）-20171212-Mark/study_ProjectPractice/study_ProjectPractice">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513326519856" />
+              <option name="buildTimestamp" value="1510606425230" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/BaiduYunDownload/高并发分布式（专题三）/011-消息中间件（与Spring集成和场景实例）-20171107-Mark/rabbitmq-native-src-20171108">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511146085962" />
+              <option name="buildTimestamp" value="1506404260442" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/BaiduYunDownload/高并发分布式（专题三）/011-消息中间件（与Spring集成和场景实例）-20171107-Mark/rabbitmq_spring">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510299512674" />
+              <option name="buildTimestamp" value="1506404238417" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/BaiduYunDownload/高并发分布式（专题三）/011-消息中间件（与Spring集成和场景实例）-20171107-Mark/rabbitmq_spring/study-consumer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511255557734" />
+              <option name="buildTimestamp" value="1506404236458" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/BaiduYunDownload/高并发分布式（专题三）/011-消息中间件（与Spring集成和场景实例）-20171107-Mark/rabbitmq_spring/study-producer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511147463676" />
+              <option name="buildTimestamp" value="1506404260442" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/BaiduYunDownload/高并发分布式（专题三）/011-消息中间件（与Spring集成和场景实例）-20171107-Mark/异步处理src/study_async_proc">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511850936707" />
+              <option name="buildTimestamp" value="1506404225117" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/BaiduYunDownload/高并发分布式（专题三）/011-消息中间件（与Spring集成和场景实例）-20171107-Mark/异步处理src/study_async_proc/.idea">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510299407670" />
+              <option name="buildTimestamp" value="1506404238417" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/BaiduYunDownload/高并发分布式（专题三）/012-消息中间件（安装管理和集群化）-20171109-Mark(1)/app_decoupling/depot">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511343113146" />
+              <option name="buildTimestamp" value="1506404251104" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/BaiduYunDownload/高并发分布式（专题三）/012-消息中间件（安装管理和集群化）-20171109-Mark(1)/app_decoupling/order">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511919233418" />
+              <option name="buildTimestamp" value="1506404246561" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/BaiduYunDownload/高并发分布式（专题三）/012-消息中间件（安装管理和集群化）-20171109-Mark(1)/spring_boot_rabbitmq/sb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511337331194" />
+              <option name="buildTimestamp" value="1506404251104" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="E:/IdeaProjects/JspRun" />
+    <option name="lastProjectLocation" value="E:/IdeaProjects" />
   </component>
 </application>

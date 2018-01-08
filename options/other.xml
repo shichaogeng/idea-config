@@ -7,4 +7,20 @@
   <component name="RefactoringSettings">
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://182.92.111.20/svn/huohe_software/" />
+        <option value="https://182.92.111.20/svn/huohe_software/huohe" />
+        <option value="https://182.92.111.20/svn/huohe_software/hhusp" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://182.92.111.20/svn/huohe_software/" />
+        <option value="https://182.92.111.20/svn/huohe_software/huohe" />
+        <option value="https://182.92.111.20/svn/huohe_software/hhusp" />
+      </list>
+    </option>
+  </component>
 </application>

@@ -2,26 +2,54 @@
   <component name="PropertiesComponent">
     <property name="Default.savedEditorTheme" value="_@user_Default" />
     <property name="installed.kotlin.plugin.version" value="1.1.4-release-IJ2017.2-3" />
-    <property name="android-component-compatibility-check" value="1508379478985" />
+    <property name="android-component-compatibility-check" value="1515077690011" />
     <property name="ts.lib.d.ts.version" value="2.4.1" />
-    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
     <property name="project.wizard.template" value="Maven" />
-    <property name="file.chooser.recent.files" value="E:/IdeaProjects/design-pattern&#10;E:/IdeaProjects/design-pattern/.idea&#10;E:/IdeaProjects/JspRun/source/WebRoot&#10;E:/IdeaProjects/JspRun/source/WebRoot/WEB-INF/lib&#10;E:/IdeaProjects/JspRun/source/.project&#10;E:/temp/project/JspRun_v6.0.0_Source_UTF8（可以在IntelliJ+IDEA里面部署成功）%28YouMeek.com整理%29/JspRun!_6.0.0_Source_UTF8/source/.project&#10;E:/tomcat/apache-tomcat-8.0.43&#10;E:/IdeaProjects/hello-world&#10;D:/Develop/Java/jdk1.8.0_101&#10;E:/IdeaProjects" />
+    <property name="file.chooser.recent.files" value="E:/IdeaProjects/dubbo&#10;E:/IdeaProjects/huohe-work&#10;E:/IdeaProjects/04study_Tool&#10;E:/IdeaProjects&#10;E:/IdeaProjects/huohe-work/nhap/pom.xml&#10;E:/IdeaProjects/work&#10;E:/IdeaProjects/work/hhusp&#10;D:/Develop/apache-maven-3.3.9-bin/apache-maven-3.3.9&#10;E:/IdeaProjects/huohe-work/huohe/huohe-ziru/pom.xml&#10;E:/IdeaProjects/usp&#10;E:/temp/project/JspRun_v6.0.0_Source_UTF8（可以在IntelliJ+IDEA里面部署成功）%28YouMeek.com整理%29/JspRun!_6.0.0_Source_UTF8/source/WebRoot/WEB-INF/lib&#10;E:/temp/project/JspRun_v6.0.0_Source_UTF8（可以在IntelliJ+IDEA里面部署成功）%28YouMeek.com整理%29/JspRun!_6.0.0_Source_UTF8/source/.project&#10;F:/BaiduYunDownload/多线程/028-多线程（项目性能优化实战）-20171212-Mark/study_ProjectPractice/study_ProjectPractice&#10;E:/temp/img&#10;F:/BaiduYunDownload/多线程/026-多线程（线程池和Exector框架）-20171210-Mark/05study_ThreadPool/05study_ThreadPool&#10;F:/BaiduYunDownload/多线程/025-多线程（接上节课＋线程池和Exector框架）-20171207-Mark/study/05study_ThreadPool&#10;F:/BaiduYunDownload/多线程/024-多线程（并发工具类和并发容器）-20171205-Mark(1)/04study_Tool/04study_Tool&#10;D:/Develop/apache-maven-3.1.1-bin/apache-maven-3.1.1/conf/settings.xml&#10;D:/Develop/apache-maven-3.3.9-bin/apache-maven-3.3.9/conf/settings.xml&#10;F:/BaiduYunDownload/多线程/021-多线程（原子操作、Lock和Condition、AQS分析）-20171130-Mark(1)/2017-11-30src/03study_Lock&#10;F:/BaiduYunDownload/多线程/021-多线程（原子操作、Lock和Condition、AQS分析）-20171130-Mark(1)/2017-11-30src/02study_Atomic&#10;F:/BaiduYunDownload/多线程/020-多线程（基础）-20171128-Mark/01study_ThreadBase/01study_ThreadBase/src/com/gengsc/connectpool/ConnectionDriver.java&#10;F:/BaiduYunDownload/多线程/020-多线程（基础）-20171128-Mark/01study_ThreadBase/01study_ThreadBase&#10;F:/BaiduYunDownload/多线程/019-多线程（基础）-20171126-Mark/01study_ThreadBase/01study_ThreadBase&#10;F:/BaiduYunDownload/高并发分布式（专题三）/012-消息中间件（安装管理和集群化）-20171109-Mark(1)/spring_boot_rabbitmq/sb&#10;E:/IdeaProjects/springboot-rabbitmq&#10;F:/BaiduYunDownload/高并发分布式（专题三）/012-消息中间件（安装管理和集群化）-20171109-Mark(1)/app_decoupling/depot&#10;F:/BaiduYunDownload/高并发分布式（专题三）/012-消息中间件（安装管理和集群化）-20171109-Mark(1)/app_decoupling/order&#10;F:/BaiduYunDownload/高并发分布式（专题三）/011-消息中间件（与Spring集成和场景实例）-20171107-Mark/异步处理src/study_async_proc&#10;E:/tomcat/apache-tomcat-8.0.43" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
-    <property name="lastTip" value="8" />
-    <property name="file.gist.reindex.count" value="2359" />
+    <property name="lastTip" value="88" />
+    <property name="file.gist.reindex.count" value="10998" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.62663496" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.74316293" />
     <property name="create.project.preferred.importer" value="Existing Sources" />
     <property name="fileTypeChangedCounter" value="4" />
-    <property name="PLUGIN_FILTER" value="ignore&#10;ali&#10;Alibaba Java Coding Guidelines" />
-    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Paths" />
-    <property name="ProjectStructure.TopLevelElements" value="0.15494792" />
+    <property name="PLUGIN_FILTER" value="python&#10;UML&#10;mybat&#10;myb&#10;ignore" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
     <property name="MavenModuleWizard.inheritGroupId" value="true" />
     <property name="MavenModuleWizard.inheritVersion" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="Copy.OpenInEditor" value="true" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="surround&#10;print&#10;Full sc&#10;override&#10;file str" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="INSPECTION_FILTER_HISTORY" value="raw" />
+    <property name="FileTemplates.SelectedTemplate" value="ActionScript File Header" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="ignore.ide.set.hidpi.mode" value="true" />
+    <property name="kotlin.lastUpdateCheck" value="1509604207507" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 3.6.2 (D:\Develop\Python\Python36-32\python.exe)" />
+    <property name="last.imported.location" value="E:/book/Java高级特性/Netty权威指南 第2版 带书签目录 完整版.pdf/nettyBookSourceV2/nettyBookV2/book/.project" />
+    <property name="eclipse.project.dir" value="E:\book\Java高级特性\Netty权威指南 第2版 带书签目录 完整版.pdf\nettyBookSourceV2\nettyBookV2\book" />
+    <property name="FileStructurePopup.narrowDown" value="true" />
+    <property name="java.lambda.provider.file.structure.state" value="true" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="SpringBeansModulesPanel[0]" value="0.11911853" />
+    <property name="SpringBeansModulesPanel[1]" value="0.20689656" />
+    <property name="SpringBeansModulesPanel[2]" value="0.32480818" />
+    <property name="SpringBeansModulesPanel[3]" value="0.2528445" />
+    <property name="LAST_INJECTED_LANGUAGE" value="JSON" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.4965812" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="SpringRepositoriesModulesPanel[0]" value="0.119760476" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.23678161" />
   </component>
 </application>
