@@ -5,15 +5,15 @@
       <entry feature="CreateFile.CreateSpringConfigAction" count="2" />
       <entry feature="OpenInBrowser.Chrome" count="3" />
       <entry feature="OpenInBrowser.Safari" count="1" />
-      <entry feature="StripeButton[Version_Control].shown" count="10" />
+      <entry feature="StripeButton[Version_Control].shown" count="12" />
       <entry feature="configure.code.style.on.selected.fragment" count="3" />
-      <entry feature="debugger.reload.classes" count="5" />
+      <entry feature="debugger.reload.classes" count="6" />
       <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="1" />
       <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="52" />
-      <entry feature="execute.Application.Debug" count="154" />
-      <entry feature="execute.Application.Run" count="438" />
-      <entry feature="execute.JUnit.Debug" count="52" />
-      <entry feature="execute.JUnit.Run" count="18" />
+      <entry feature="execute.Application.Debug" count="173" />
+      <entry feature="execute.Application.Run" count="497" />
+      <entry feature="execute.JUnit.Debug" count="59" />
+      <entry feature="execute.JUnit.Run" count="25" />
       <entry feature="execute.MavenRunConfiguration.Debug" count="2" />
       <entry feature="execute.MavenRunConfiguration.Run" count="1" />
       <entry feature="execute.PythonConfigurationType.Run" count="41" />
@@ -33,7 +33,7 @@
       <entry feature="ide.settings.Git" count="1" />
       <entry feature="ide.settings.GitHub" count="1" />
       <entry feature="ide.settings.Importing" count="1" />
-      <entry feature="ide.settings.Inspections" count="3" />
+      <entry feature="ide.settings.Inspections" count="7" />
       <entry feature="ide.settings.Java_Compiler" count="1" />
       <entry feature="ide.settings.Keymap" count="3" />
       <entry feature="ide.settings.Live_Templates" count="4" />
@@ -42,14 +42,14 @@
       <entry feature="ide.settings.Tomcat_Server" count="2" />
       <entry feature="ide.settings.Version_Control" count="2" />
       <entry feature="idea.caches.invalidated" count="5" />
-      <entry feature="ideaapp.started" count="88" />
-      <entry feature="show.recent.tests.action" count="1" />
+      <entry feature="ideaapp.started" count="107" />
+      <entry feature="show.recent.tests.action" count="3" />
       <entry feature="spring.MVCRelatedFilesProvider.fromCode" count="2" />
-      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="8" />
-      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="479" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="20" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="926" />
       <entry feature="spring.SpringConfigurationCheckTask.ShowFiles" count="1" />
       <entry feature="spring.SpringFacetInspection.AddFacetFix" count="3" />
-      <entry feature="spring.SpringFacetInspection.ConfigureFileSetFix" count="13" />
+      <entry feature="spring.SpringFacetInspection.ConfigureFileSetFix" count="20" />
       <entry feature="terminal.win" count="3" />
       <entry feature="uml.ShowDiagram.JAVA" count="24" />
       <entry feature="uml.ShowDiagram.JAVA.popup" count="2" />

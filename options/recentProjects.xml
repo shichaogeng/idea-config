@@ -2,10 +2,18 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="E:/IdeaProjects/playwithalgrithms" />
+        <option value="E:/IdeaProjects/huohe-work" />
+        <option value="E:/IdeaProjects/dubbo-demo/datastructure" />
         <option value="E:/IdeaProjects/dubbog" />
         <option value="E:/IdeaProjects/dubbogdemo" />
-        <option value="E:/IdeaProjects/huohe-work" />
         <option value="E:/IdeaProjects/dubbo" />
+        <option value="E:/IdeaProjects/dubbo-demo/solrdemo" />
+        <option value="E:/IdeaProjects/dubbo-demo" />
+        <option value="E:/IdeaProjects/dubbo-demo/interface" />
+        <option value="E:/IdeaProjects/dubbo-demo/dubboconsumer" />
+        <option value="E:/IdeaProjects/dubbo-demo/dubboprovider" />
+        <option value="E:/IdeaProjects/dubbodemo" />
         <option value="E:/IdeaProjects/producesrc" />
         <option value="E:/IdeaProjects/dubbogtest" />
         <option value="E:/IdeaProjects/04study_Tool" />
@@ -44,22 +52,14 @@
         <option value="F:/BaiduYunDownload/高并发分布式（专题三）/011-消息中间件（与Spring集成和场景实例）-20171107-Mark/rabbitmq_spring" />
         <option value="F:/BaiduYunDownload/高并发分布式（专题三）/011-消息中间件（与Spring集成和场景实例）-20171107-Mark/异步处理src/study_async_proc/.idea" />
         <option value="E:/IdeaProjects/rabbitmqnative" />
-        <option value="E:/IdeaProjects/python-hello" />
-        <option value="E:/IdeaProjects/jvm-demo" />
-        <option value="E:/IdeaProjects/design-pattern" />
-        <option value="E:/IdeaProjects/zookeeperclient" />
-        <option value="E:/IdeaProjects/zookeeperfirst" />
-        <option value="E:/IdeaProjects/zookeeper_examples" />
-        <option value="E:/IdeaProjects/JspRun/source" />
-        <option value="E:/IdeaProjects/JspRun/maven-demo" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="E:/IdeaProjects/dubbog" />
+        <option value="E:/IdeaProjects/playwithalgrithms" />
       </list>
     </option>
-    <option name="lastPath" value="E:/IdeaProjects/dubbog" />
+    <option name="lastPath" value="E:/IdeaProjects/playwithalgrithms" />
     <option name="additionalInfo">
       <map>
         <entry key="E:/Git/nio">
@@ -233,8 +233,85 @@
               <option name="build" value="IU-172.4574.11" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1515079644608" />
-              <option name="buildTimestamp" value="1510606424136" />
+              <option name="projectOpenTimestamp" value="1515821529313" />
+              <option name="buildTimestamp" value="1510606394959" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/dubbo-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515656327635" />
+              <option name="buildTimestamp" value="1510606424292" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/dubbo-demo/datastructure">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516264432855" />
+              <option name="buildTimestamp" value="1510606416524" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/dubbo-demo/dubboconsumer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515483922006" />
+              <option name="buildTimestamp" value="1510606436924" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/dubbo-demo/dubboprovider">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515483829455" />
+              <option name="buildTimestamp" value="1510606436924" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/dubbo-demo/interface">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515559255854" />
+              <option name="buildTimestamp" value="1510606383956" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/dubbo-demo/solrdemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515749560067" />
+              <option name="buildTimestamp" value="1510606400383" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/dubbodemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515463167409" />
+              <option name="buildTimestamp" value="1510606436924" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -244,8 +321,8 @@
               <option name="build" value="IU-172.4574.11" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1515375240836" />
-              <option name="buildTimestamp" value="1510606428563" />
+              <option name="projectOpenTimestamp" value="1515980598276" />
+              <option name="buildTimestamp" value="1510606383383" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -255,8 +332,8 @@
               <option name="build" value="IU-172.4574.11" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1515325444931" />
-              <option name="buildTimestamp" value="1510606431138" />
+              <option name="projectOpenTimestamp" value="1515902134985" />
+              <option name="buildTimestamp" value="1510606397204" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -288,8 +365,8 @@
               <option name="build" value="IU-172.4574.11" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1515248834066" />
-              <option name="buildTimestamp" value="1510606380772" />
+              <option name="projectOpenTimestamp" value="1516453959349" />
+              <option name="buildTimestamp" value="1510606421277" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -323,6 +400,17 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1510717164081" />
               <option name="buildTimestamp" value="1506404235723" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IdeaProjects/playwithalgrithms">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516507964377" />
+              <option name="buildTimestamp" value="1510606417827" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

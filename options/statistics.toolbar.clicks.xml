@@ -2,17 +2,19 @@
   <component name="ToolbarClicksCollector">
     <counts>
       <entry action="$Undo@MainToolbar" count="1" />
-      <entry action="CheckinProject@MainToolbar" count="19" />
+      <entry action="CheckinProject@MainToolbar" count="20" />
       <entry action="CompileDirty@MainToolbar" count="1" />
       <entry action="DatabaseView.AddActionGroupPopup@ProjectViewToolbar" count="2" />
       <entry action="Debug@MainToolbar" count="34" />
-      <entry action="Debugger.ShowLibraryFrames@DebuggerToolbar" count="2" />
+      <entry action="Debugger.ShowLibraryFrames@DebuggerToolbar" count="6" />
       <entry action="FileChooser.GotoHome@FileChooserDialog" count="1" />
       <entry action="FileChooser.Refresh@FileChooserDialog" count="6" />
       <entry action="Maven.AddManagedFiles@Maven_Navigator_Toolbar" count="4" />
       <entry action="Maven.ExecuteGoal@Maven_Navigator_Toolbar" count="1" />
-      <entry action="Maven.Reimport@Maven_Navigator_Toolbar" count="20" />
-      <entry action="Maven.UpdateFolders@Maven_Navigator_Toolbar" count="1" />
+      <entry action="Maven.Reimport@Maven_Navigator_Toolbar" count="21" />
+      <entry action="Maven.ShowSettings@Maven_Navigator_Toolbar" count="1" />
+      <entry action="Maven.UpdateFolders@Maven_Navigator_Toolbar" count="2" />
+      <entry action="MemoryView.SettingsPopupActionGroup@unknown" count="1" />
       <entry action="OpenFile@MainToolbar" count="13" />
       <entry action="Print@RunnerToolbar" count="1" />
       <entry action="Rerun@RunnerToolbar" count="28" />
@@ -20,27 +22,29 @@
       <entry action="Runner.RestoreLayout@DebuggerToolbar" count="1" />
       <entry action="Runner.RestoreLayout@RunnerToolbar" count="2" />
       <entry action="ShowExecutionPoint@DebuggerToolbar" count="1" />
-      <entry action="ShowProjectStructureSettings@MainToolbar" count="43" />
-      <entry action="ShowSettings@MainToolbar" count="109" />
+      <entry action="ShowProjectStructureSettings@MainToolbar" count="48" />
+      <entry action="ShowSettings@MainToolbar" count="116" />
       <entry action="Stop@DebuggerToolbar" count="4" />
-      <entry action="Stop@MainToolbar" count="169" />
+      <entry action="Stop@MainToolbar" count="194" />
       <entry action="Stop@RunnerToolbar" count="65" />
       <entry action="Synchronize@MainToolbar" count="3" />
       <entry action="Vcs.ShowTabbedFileHistory@MainToolbar" count="1" />
       <entry action="Vcs.UpdateProject@MainToolbar" count="3" />
-      <entry action="ViewBreakpoints@DebuggerToolbar" count="31" />
+      <entry action="ViewBreakpoints@DebuggerToolbar" count="35" />
       <entry action="XDebugger.MuteBreakpoints@DebuggerToolbar" count="4" />
       <entry action="com.intellij.execution.impl.ConsoleViewImpl$7@RunnerToolbar" count="2" />
       <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="1" />
       <entry action="com.intellij.execution.impl.DefaultJavaProgramRunner$ControlBreakAction@RunnerToolbar" count="1" />
       <entry action="com.intellij.execution.junit2.ui.actions.RerunFailedTestsAction@DebuggerToolbar" count="3" />
-      <entry action="com.intellij.execution.ui.layout.actions.RestoreViewAction@DebuggerToolbar" count="3" />
-      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="10" />
+      <entry action="com.intellij.execution.ui.layout.actions.RestoreViewAction@DebuggerToolbar" count="5" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="12" />
       <entry action="com.intellij.find.SearchTextArea$NewLineAction@unknown" count="1" />
-      <entry action="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction@EditorToolbar" count="22" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="2" />
+      <entry action="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction@EditorToolbar" count="39" />
       <entry action="com.intellij.ide.actions.CollapseAllToolbarAction@KeymapEdit" count="1" />
       <entry action="com.intellij.ide.actions.ExpandAllToolbarAction@KeymapEdit" count="5" />
       <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="4" />
+      <entry action="com.intellij.ide.errorTreeView.NewErrorTreeViewPanel$StopAction@CompilerMessagesToolbar" count="1" />
       <entry action="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$6@FileTemplatesConfigurable" count="1" />
       <entry action="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$8@FileTemplatesConfigurable" count="1" />
       <entry action="com.intellij.ide.hierarchy.CallHierarchyBrowserBase$ChangeViewTypeActionBase@CallHierarchyViewToolbar" count="2" />
@@ -58,12 +62,13 @@
       <entry action="com.intellij.openapi.vcs.changes.ui.ChangesTreeList$7@ChangesBrowser" count="3" />
       <entry action="com.intellij.spring.facet.SpringConfigurationTab$MyCheckedActionGroup@ToolbarDecorator" count="5" />
       <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="36" />
-      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="234" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="242" />
       <entry action="com.intellij.uml.core.actions.ChangeCreationEdgeMode@Diagrams" count="2" />
       <entry action="com.intellij.uml.core.actions.UmlCategorySwitcher@Diagrams" count="15" />
       <entry action="com.intellij.uml.core.actions.UmlShowDependencies@Diagrams" count="5" />
       <entry action="com.intellij.uml.core.actions.scopes.UmlScopesActionGroup@Diagrams" count="1" />
       <entry action="com.intellij.uml.core.actions.visibility.UmlVisibilityActionGroup@Diagrams" count="1" />
+      <entry action="com.intellij.xdebugger.impl.evaluate.CodeFragmentInputComponent$ToggleSoftWrapAction@DebuggerCodeFragment" count="1" />
       <entry action="org.jetbrains.idea.svn.dialogs.RepositoryBrowserDialog$AddLocationAction@RepositoryBrowser.Toolbar" count="4" />
       <entry action="org.jetbrains.plugins.terminal.TerminalView$CloseSession@Terminal" count="1" />
     </counts>
