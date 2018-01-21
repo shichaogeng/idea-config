@@ -1,0 +1,2 @@
+com.alibaba.p3c.smartfox
+com.seventh7.plugin.mybatis
